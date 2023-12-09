@@ -2,7 +2,7 @@
 
 <!--
 **hiraBiswas/hiraBiswas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-https://github.com/hiraBiswas/hiraBiswas/assets/138381787/1920cccc-2a91-4ad5-ac20-7cf6ce3a24a4
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -18,5 +18,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+https://github.com/hiraBiswas/hiraBiswas/assets/138381787/1920cccc-2a91-4ad5-ac20-7cf6ce3a24a4
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=hiraBiswas&theme=highcontrast)](https://git.io/streak-stats)
