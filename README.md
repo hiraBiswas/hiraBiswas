@@ -18,6 +18,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-https://github.com/hiraBiswas/hiraBiswas/assets/138381787/1920cccc-2a91-4ad5-ac20-7cf6ce3a24a4
+![_Hira Biswas ](https://github.com/hiraBiswas/hiraBiswas/assets/138381787/0be2fe94-62b7-43e9-8476-dc039faea52f)
+
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=hiraBiswas&theme=highcontrast)](https://git.io/streak-stats)
